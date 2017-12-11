@@ -1,8 +1,6 @@
 
     <html>
-    <head>
     <marquee><b>pembelajaran mengenai testing dan implementasi</b></marquee>
-    </head>
 <body>
   <p>Perkenalan :</p>
   <p> Nama        : Muhamad Iqbal Sakti</p>
