@@ -3,8 +3,8 @@
     <marquee><b>pembelajaran mengenai testing dan implementasi</b></marquee>
   </head>
 <body>
-  <p><b> Perkenalan :<b></p>
-<p> Nama        : Muhamad Iqbal Sakti</p>
+   Perkenalan :
+  <p> Nama        : Muhamad Iqbal Sakti</p>
   <p> Umur        : 22 thn </p>
   <p> jurusan     : <a href="http://sif.uin-suska.ac.id/">SISTEM INFORMASI</a> </p>
   <p> Fakultas    : <a href="https://fst.uin-suska.ac.id/">FAKULTAS SAINS DAN TEKNOLOGI</a> </p>
