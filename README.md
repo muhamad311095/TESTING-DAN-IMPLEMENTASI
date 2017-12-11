@@ -1,10 +1,13 @@
-# TESTING-DAN-IMPLEMENTASI
-pembelajaran mengenai testing dan implementasi
-
-## Perkenalan :
-## Nama        : Muhamad Iqbal Sakti
-## Umur        : 22 thn
-## jurusan     : Sistem Informasi
-## Fakultas    : Sains dan Teknologi
-
-## UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM RIAU
+<html>
+  <head>
+    <title>pembelajaran mengenai testing dan implementasi</title>
+  </head>
+<body>
+  <p>Perkenalan :</p>
+<p> Nama        : Muhamad Iqbal Sakti</p>
+  <p> Umur        : 22 thn </p>
+  <p> jurusan     : Sistem Informasi </p>
+  <p> Fakultas    : Sains dan Teknologi </p>
+  <p> UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM RIAU </p>
+</body>
+</html>
