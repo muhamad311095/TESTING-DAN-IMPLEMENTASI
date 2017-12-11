@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>pembelajaran mengenai testing dan implementasi</title>
+    <marquee> pembelajaran mengenai testing dan implementasi </marquee>
   </head>
 <body>
   <p>Perkenalan :</p>
